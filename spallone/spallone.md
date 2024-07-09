@@ -168,8 +168,6 @@ January 22, 2021 Seventh Judicial Circuit
 
 Spartanburg, South Carolina
 
-\newpage
-
 **Case Caption:** Glenlake Upstate Homeowners Association, Inc. \blackout{VS Joseph J Spallone, defendant,} et al
 
 **Case Number:** 2019CP4203679
