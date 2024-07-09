@@ -10,11 +10,13 @@ In the judicial declaration by the 7th Judicial Circuit of South Carolina in cas
 
 By precedent, this also means that all of the other phases that were annexed post-Fourth Amendment (i.e. Phases 3C, 4B, 4C, 5A and 5B), are to be considered covered by the Covenants because they follow the judge's logic:
 
-i. Previously owned by the developer as part of a single lot of land intended to be a single subdivision
-i. Covenants were in place when the property was sold
-i. During the home sale, buyers were aware of the Covenants and the Association
-i. The buyers use the common areas
-i. The buyers paid the assessments before 2019, acknowledging the existence and validity of the authority of the HOA.
+<ol type="i">
+<li>Previously owned by the developer as part of a single lot of land intended to be a single subdivision</li>
+<li>Covenants were in place when the property was sold</li> 
+<li>During the home sale, buyers were aware of the Covenants and the Association</li>
+<li>The buyers use the common areas</li>
+<li>The buyers paid the assessments before 2019, acknowledging the existence and validity of the authority of the HOA.</li>
+</ol>
 
 ## Conclusion
 
