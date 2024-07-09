@@ -2,7 +2,7 @@ STATE OF SOUTH CAROLINA
 
 COUNTY OF SPARTANBURG
 
-Glenlake Upstate Homeowners Association, Inc., Plaintiff, v. \blackout{Joseph J. Spallone and Tammy J. Spallone}, Defendants.
+Glenlake Upstate Homeowners Association, Inc., Plaintiff, v. Joseph J. Spallone and Tammy J. Spallone, Defendants.
 
 IN THE COURT OF COMMON PLEAS
 SEVENTH JUDICIAL CIRCUIT
@@ -10,13 +10,13 @@ Civil Action No.: 2019-CP-42-03679
 
 # ORDER
 
-This matter came before the Court upon motion of the Plaintiff, Glenlake Upstate Homeowners Association, Inc. (“Plaintiff”), for entry of judgment against Defendants, \blackout{Joseph J. Spallone and Tammy J. Spallone} (collectively hereinafter, “Defendants”). The Parties stipulated to placing certain matters on the record with this Court on January 22, 2021. Based on the reasons that follow, this Court finds in favor of the Plaintiff.
+This matter came before the Court upon motion of the Plaintiff, Glenlake Upstate Homeowners Association, Inc. (“Plaintiff”), for entry of judgment against Defendants, Joseph J. Spallone and Tammy J. Spallone (collectively hereinafter, “Defendants”). The Parties stipulated to placing certain matters on the record with this Court on January 22, 2021. Based on the reasons that follow, this Court finds in favor of the Plaintiff.
 
 # FACTS
 
 The Complaint included the relevant well-plead factual allegations and, based on the pleadings, exhibits, and all other evidence having been made a part of the record of this case, this Court finds as follows: 
 
-Defendants are citizens and residents of Spartanburg County, South Carolina, and own real property located at the physical address of \blackout{118 Bridgeville Way}, Boiling Springs, South Carolina 29316 (the “Property”), which is further known and described in the records of the Spartanburg County Register of Deeds as Lot No. 280, Glenlake Subdivision, Phase 2 ‘C’. 
+Defendants are citizens and residents of Spartanburg County, South Carolina, and own real property located at the physical address of 118 Bridgeville Way, Boiling Springs, South Carolina 29316 (the “Property”), which is further known and described in the records of the Spartanburg County Register of Deeds as Lot No. 280, Glenlake Subdivision, Phase 2 ‘C’. 
 
 The Declaration of Protective Covenants, Conditions and Restrictions for Glenlake Subdivision (the “Covenants”) were recorded on March 31, 2005 by Declarant, Four Bees, Inc. (“Declarant”) and Poinsett Homes, LLC (“Poinsett”). A true and correct copy of said Covenants are recorded in the Spartanburg County Register of Deeds Office in Deed Book 82-R, beginning at Page 862. The Covenants and amendments and/or supplements thereto were made exhibits to the Complaint. 
 
@@ -168,7 +168,7 @@ January 22, 2021 Seventh Judicial Circuit
 
 Spartanburg, South Carolina
 
-**Case Caption:** Glenlake Upstate Homeowners Association, Inc. \blackout{VS Joseph J Spallone, defendant,} et al
+**Case Caption:** Glenlake Upstate Homeowners Association, Inc. VS Joseph J Spallone, defendant, et al
 
 **Case Number:** 2019CP4203679
 
