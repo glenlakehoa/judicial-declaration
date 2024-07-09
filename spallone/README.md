@@ -2,7 +2,7 @@
 
 ## Background
 
-This is transcription of the judicial declaration in the case 2019-CP-42-03679, Glenlake Upstate Homeowners Association, Inc., Plaintiff, v. Spallone, regarding their denial to pay HOA dues. The homeowners's reasoning was that, due to the annexation issue in the HOA documents, they were not legally bound to pay the dues or even be a part of the Associaton. 
+This is a transcription of the judicial declaration in the case 2019-CP-42-03679, Glenlake Upstate Homeowners Association, Inc., Plaintiff, v. Spallone, regarding their denial to pay HOA dues. The homeowners's reasoning was that, due to the annexation issue in the HOA documents, they were not legally bound to pay the dues or even be a part of the Associaton. 
 
 ## Outcome
 
